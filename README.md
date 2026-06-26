@@ -53,4 +53,8 @@ To compile and run this project, the following libraries are required (and shoul
 [▶ Watch Demo Video](https://drive.google.com/file/d/14DuJ0AApNipXFbUbbcFq-Kb16AfwDCKM/view)
 
 ## 👨‍💻 Author
+1.Atokeya Sabiha
+2.Rifah Nanjiba Borno
+3.Sumaiya Alam Erina
+4.Fayruz Humayra
 Developed for Computer Graphics Coursework.
