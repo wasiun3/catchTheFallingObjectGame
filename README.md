@@ -48,6 +48,9 @@ To compile and run this project, the following libraries are required (and shoul
     ```bash
     ./CatchTheObject.exe
     ```
+## Demo Video
+
+[▶ Watch Demo Video](https://drive.google.com/file/d/14DuJ0AApNipXFbUbbcFq-Kb16AfwDCKM/view)
 
 ## 👨‍💻 Author
 Developed for Computer Graphics Coursework.
