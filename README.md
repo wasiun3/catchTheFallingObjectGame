@@ -57,4 +57,4 @@ To compile and run this project, the following libraries are required (and shoul
 2.Rifah Nanjiba Borno
 3.Sumaiya Alam Erina
 4.Fayruz Humayra
-Developed for Computer Graphics Coursework.
+
